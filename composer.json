@@ -1,0 +1,9 @@
+{
+  "require": {
+    "slim/slim": "4.*",
+    "slim/psr7": "^1.5",
+    "tuupola/slim-jwt-auth": "^3.6",
+    "paragonie/sodium_compat": "^1.19",
+    "bryanjhv/slim-session": "~4.0"
+  }
+}

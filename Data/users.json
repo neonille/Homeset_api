@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "firstname": "Henrik",
+      "lastname": "Andersson",
+      "complex": 500,
+      "apartId": 103,
+      "id": "10014",
+      "landlord": false,
+      "phone": "07000000",
+      "email": "emai@email.com"
+    },
+    {
+      "firstname": "Clara",
+      "lastname": "Persson",
+      "complex": 500,
+      "apartId": 108,
+      "id": "10035",
+      "landlord": false,
+      "phone": "07000000",
+      "email": "emai@email.com"
+    },
+    {
+      "firstname": "Stefan",
+      "lastname": "Olsson",
+      "complex": 800,
+      "apartId": 301,
+      "id": "10072",
+      "landlord": false,
+      "phone": "07000000",
+      "email": "emai@email.com"
+    },
+    {
+      "firstname": "Moa",
+      "lastname": "Karlsson",
+      "complex": 800,
+      "apartId": 102,
+      "id": "10123",
+      "landlord": false,
+      "phone": "07000000",
+      "email": "emai@email.com"
+    },
+    {
+      "firstname": "Sture",
+      "lastname": "Gustafsson",
+      "complex": [500, 800],
+      "id": "30014",
+      "landlord": true,
+      "phone": "07000000",
+      "email": "emai@email.com"
+    },
+    {
+      "firstname": "Margareta",
+      "lastname": "Andersson",
+      "complex": [800],
+      "id": "30024",
+      "landlord": true,
+      "phone": "07000000",
+      "email": "emai@email.com"
+    }
+  ]
+}
